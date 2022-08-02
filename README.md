@@ -8,4 +8,4 @@ Just click the "Clean Results" button at the top of the results, and you're done
 
 
 ## Install
-You can install Clean Search for Developers from the Chrome Web Store.
+You can install Clean Search for Developers from the [Chrome Web Store](https://chrome.google.com/webstore/detail/clean-search-for-develope/depgjkcgonlfobgeiihbopimhpmcfadh).

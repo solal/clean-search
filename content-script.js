@@ -1,6 +1,6 @@
 let cleanBtnEl   = document.createElement("input");
 cleanBtnEl.type  = "button";
-cleanBtnEl.value = "🟢 Clean Results";
+cleanBtnEl.value = "🟢 Clean My Results";
 
 cleanBtnEl.style.cursor       = "pointer";
 cleanBtnEl.style.marginBottom = "15px";
